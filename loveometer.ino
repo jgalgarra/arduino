@@ -12,9 +12,9 @@ void setup(){
     digitalWrite(pinNumber, LOW);
   }
 }
-FFFFFFFXV
+
 void loop(){
-  // read the value on AnalogIn pin 0 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxhghgggggggggggggggggggggggggggggggnjghjjjjjjjjjjjjjjjjjjjjjj665hyunhyujxASDASDD
+  // read the value on AnalogIn pin 0
   // and store it in a variable
   int sensorVal = analogRead(sensorPin);
 
